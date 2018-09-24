@@ -1,1 +1,3 @@
-console.log("Monday")
+saySomething(){
+    console.log("Hello World!");
+}
